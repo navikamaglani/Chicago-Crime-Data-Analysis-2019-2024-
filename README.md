@@ -1,4 +1,3 @@
-# Chicago-Crime-Data-Analysis-2019-2024-
 # **Chicago Crime Data Analysis (2019–2024)**
 
 This project analyzes crime trends in Chicago between 2019 and 2024 using the Chicago Crime Dataset.  
@@ -132,7 +131,6 @@ This clearly separates my contribution from the team deliverables.
 ```
 chicago-crime-analysis/
 │
-├── dashboard_screenshots/              # Tableau screenshots (optional)
 └── README.md
 ```
 
